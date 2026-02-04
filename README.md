@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Tharik J</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | React | Firebase | AI-Powered Apps</h3>
 
-<!--
-**J-MOHAMEDTHARIK/J-MOHAMEDTHARIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Final-year Engineering Student (2026) <br/>
+💻 Passionate about building scalable web apps & real-world solutions <br/>
+🌱 Currently exploring AI integration in Full-Stack projects
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 Engineering student graduating in **2026**
+- 💼 Completed **Full-Stack Web Development Internship**
+- 🔥 Built **real-world dashboards, clones, and AI-powered apps**
+- 🧠 Solved **1000+ coding problems** (Skillrack) + **NPTEL Certified**
+- 🌍 Open to **Internships & Full-Time Opportunities**
+- 📍 Chennai, India (Open to relocation)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- ⚛️ React.js
+- 🌐 HTML5, CSS3, JavaScript
+- 🎨 Tailwind CSS, Bootstrap
+
+### Backend
+- 🟢 Node.js
+- 🚂 Express.js
+- 🔥 Firebase (Auth, Firestore)
+- 🗄️ MongoDB, MySQL
+
+### AI / ML
+- 🤖 AI Chatbots (OpenRouter, API-based)
+- 📊 Azure AutoML (Basics)
+- 🧠 AI-Powered Resume Auditor & Recommendation Systems
+
+### Tools & Platforms
+- 🧑‍💻 Git & GitHub
+- 🧪 Postman
+- ☁️ Firebase Console
+- 🖥️ VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI-Powered Resume Auditor & Job Match System
+- ATS-based resume analysis
+- Skill gap detection & job matching
+- AI suggestions for resume improvement  
+**Tech:** MERN + AI APIs
+
+### 🔹 Vehicle Management & Live Bus Tracking Dashboard
+- Real-time location tracking
+- Interactive maps & analytics
+- IoT-based data visualization  
+**Tech:** React, Firebase, Maps API
+
+### 🔹 Food Ordering Website with AI Chatbot
+- Full CRUD food ordering system
+- AI chatbot for complaints & queries  
+**Tech:** React, Node, MongoDB, Express
+
+### 🔹 Web App Clones
+- Netflix Clone
+- YouTube Clone
+- Admin Dashboards
+
+---
+
+## 📈 Coding & Problem Solving
+
+- 🧩 **1000+ problems solved** (Skillrack)
+- 🏅 **NPTEL Certified**
+- 💡 Strong in **DSA, OOPs, C++, Java**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **mohamedtharik1508@gmail.com**
+- 💼 LinkedIn: **[Add your LinkedIn link here]**
+- 🧑‍💻 GitHub: **You're already here 😉**
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning ideas into **working products** and believe  
+> **“Projects speak louder than resumes.”**
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
