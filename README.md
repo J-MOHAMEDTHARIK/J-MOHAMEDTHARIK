@@ -25,6 +25,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9pMmR3a2JqZGJ3OWo5cDBnanZ3cjlieTRzZ3BxODc1bzFnMWkzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RM2VLuyiZ1qOSiTev6/giphy.gif"/>
+
 - 🎓 Engineering student graduating in **2026**
 - 💼 Completed **Full-Stack Web Development Internship**
 - 🔥 Built dashboards, clones, and real-world web applications
@@ -32,9 +34,7 @@
 - 🌍 Open to **Internships & Full-Time Opportunities**
 - 📍 Chennai, India (Open to relocation)
 
-<p align="right">
-  <img width="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9pMmR3a2JqZGJ3OWo5cDBnanZ3cjlieTRzZ3BxODc1bzFnMWkzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RM2VLuyiZ1qOSiTev6/giphy.gif"/>
-</p>
+<br clear="right"/>
 
 ---
 
