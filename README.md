@@ -80,11 +80,18 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 📧 Email: **mohamedtharik1508@gmail.com**
-- 💼 LinkedIn: **[Add your LinkedIn link here]**
-- 🧑‍💻 GitHub: **You're already here 😉**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tharik--j" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Tharik%20J-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/J-MOHAMEDTHARIK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-J--MOHAMEDTHARIK-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
