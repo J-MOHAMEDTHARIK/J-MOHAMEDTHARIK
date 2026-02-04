@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tharik J</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | React | Firebase | AI-Powered Applications</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | React | Firebase | AI-Integrated Web Apps</h3>
 
 <p align="center">
 🚀 Final-year Engineering Student (2026) <br/>
@@ -25,12 +25,16 @@
 
 ## 🧑‍💻 About Me
 
+<img align="left" width="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9pMmR3a2JqZGJ3OWo5cDBnanZ3cjlieTRzZ3BxODc1bzFnMWkzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RM2VLuyiZ1qOSiTev6/giphy.gif"/>
+
 - 🎓 Engineering student graduating in **2026**
 - 💼 Completed **Full-Stack Web Development Internship**
-- 🔥 Built dashboards, clones, and AI-powered applications
+- 🔥 Built dashboards, clones, and real-world web applications
 - 🧠 Solved **1000+ coding problems** (Skillrack) + **NPTEL Certified**
 - 🌍 Open to **Internships & Full-Time Opportunities**
 - 📍 Chennai, India (Open to relocation)
+
+<br clear="left"/>
 
 ---
 
@@ -47,10 +51,9 @@
 - 🔥 Firebase (Auth, Firestore)
 - 🗄️ MongoDB, MySQL
 
-### AI / ML
-- 🤖 AI Chatbots (OpenRouter, API-based)
+### AI / ML (Basics)
+- 🤖 AI Chatbots (API-based)
 - 📊 Azure AutoML (Basics)
-- 🧠 AI-powered recommendation systems
 
 ### Tools
 - 🧑‍💻 Git & GitHub
@@ -62,11 +65,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered Resume Auditor & Job Match System
-- ATS-based resume analysis
-- Skill gap detection & job matching
-- Smart AI resume improvement suggestions  
-**Tech:** MERN Stack + AI APIs
+### 🔹 Gym Management Website
+- Member registration & management
+- Workout plans & trainer details
+- Responsive admin dashboard  
+**Tech:** React.js, Firebase, JavaScript
 
 ### 🔹 Vehicle Management & Live Bus Tracking Dashboard
 - Real-time vehicle & bus tracking
@@ -74,7 +77,7 @@
 **Tech:** React, Firebase, Maps API
 
 ### 🔹 Food Ordering Website with AI Chatbot
-- Full CRUD system
+- Full CRUD food ordering system
 - AI chatbot for customer support  
 **Tech:** React, Node.js, MongoDB, Express.js
 
