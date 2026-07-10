@@ -19,6 +19,10 @@
   <a href="https://github.com/J-MOHAMEDTHARIK" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-J--MOHAMEDTHARIK-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://tharik-portfolio-ecru.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -41,21 +45,25 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - ⚛️ React.js
 - 🌐 HTML5, CSS3, JavaScript
 - 🎨 Tailwind CSS, Bootstrap
 
 ### Backend
+
 - 🟢 Node.js
 - 🚂 Express.js
 - 🔥 Firebase (Auth, Firestore)
 - 🗄️ MongoDB, MySQL
 
 ### AI / ML (Basics)
+
 - 🤖 AI Chatbots (API-based)
 - 📊 Azure AutoML (Basics)
 
 ### Tools
+
 - 🧑‍💻 Git & GitHub
 - 🧪 Postman
 - 🖥️ VS Code
@@ -66,22 +74,26 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Gym Management Website
+
 - Member registration & management
 - Workout plans & trainer details
 - Responsive admin dashboard  
-**Tech:** React.js, Firebase, JavaScript
+  **Tech:** React.js, Firebase, JavaScript
 
 ### 🔹 Vehicle Management & Live Bus Tracking Dashboard
+
 - Real-time vehicle & bus tracking
 - Interactive maps & analytics  
-**Tech:** React, Firebase, Maps API
+  **Tech:** React, Firebase, Maps API
 
 ### 🔹 Food Ordering Website with AI Chatbot
+
 - Full CRUD food ordering system
 - AI chatbot for customer support  
-**Tech:** React, Node.js, MongoDB, Express.js
+  **Tech:** React, Node.js, MongoDB, Express.js
 
 ### 🔹 Web Application Clones
+
 - Netflix Clone
 - YouTube Clone
 - Admin Dashboards
